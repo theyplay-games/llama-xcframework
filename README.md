@@ -36,5 +36,5 @@ Load models there with `n_gpu_layers = 0`. On real devices, keep `99`.
 
 llama.cpp is MIT licensed (see `LICENSE`, copyright the ggml authors). This repository only redistributes the build.
 
-Used by [OnDevice Kit](https://theyplay.games/ondevice) and [swift-gbnf](https://github.com/theyplaygames/swift-gbnf).
+Used by [OnDevice Kit](https://theyplay.games/ondevice) and [swift-gbnf](https://github.com/theyplay-games/swift-gbnf).
 Made by [theyplay.games](https://theyplay.games).
